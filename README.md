@@ -91,4 +91,4 @@ $ hexdump -C normal.php
 00000200
 ```
 
-Can use it bypass some cached webshell detection.
+Can use it bypass some cached webshell detections.
