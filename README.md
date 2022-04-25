@@ -92,3 +92,7 @@ $ hexdump -C normal.php
 ```
 
 Can use it bypass some cached webshell detections.
+
+References:
+
+- <https://t.zsxq.com/vbuvbAY> (In Chinese)
